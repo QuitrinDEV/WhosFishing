@@ -2,3 +2,11 @@ name: WhosFishing
 version: '${project.version}'
 main: net.quitrindev.fishing.WhosFishing
 api-version: '1.20'
+commands:
+  fish:
+    aliases: [ ]
+    description: Fish
+    usage: /<command>
+  throw:
+    description: Launch
+    aliases: []
