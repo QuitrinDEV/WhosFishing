@@ -1,0 +1,4 @@
+name: WhosFishing
+version: '${project.version}'
+main: net.quitrindev.fishing.WhosFishing
+api-version: '1.20'
